@@ -1,0 +1,474 @@
+{
+  "project_info": {
+    "project_number": "929491923378",
+    "firebase_url": "https://al-hikmah-3cfa5.firebaseio.com",
+    "project_id": "al-hikmah-3cfa5",
+    "storage_bucket": "al-hikmah-3cfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:456b42e39bc29ce0",
+        "android_client_info": {
+          "package_name": "com.alhikmah.ahkamejindegi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:b43364fc1e312653",
+        "android_client_info": {
+          "package_name": "com.alhikmah.bcsqsans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2190398998035603~7982926578"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:4bf71914506c9341",
+        "android_client_info": {
+          "package_name": "com.alhikmah.behestijewor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:6664c693c0684009",
+        "android_client_info": {
+          "package_name": "com.alhikmah.bukharisharif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2190398998035603~5426744172"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:1479532ed5e1b2a9",
+        "android_client_info": {
+          "package_name": "com.alhikmah.desherpothe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:f951b5839bc47da9",
+        "android_client_info": {
+          "package_name": "com.alhikmah.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:cd1bedf93b671ee6",
+        "android_client_info": {
+          "package_name": "com.alhikmah.increaserijik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2190398998035603~3363542177"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:d058753049c8f208",
+        "android_client_info": {
+          "package_name": "com.alhikmah.jinhistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:b525ed8b977dcf5d",
+        "android_client_info": {
+          "package_name": "com.alhikmah.kafondafonjanaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:822085cf78c543a1",
+        "android_client_info": {
+          "package_name": "com.alhikmah.majhavkikano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:ba22a5ff01010d1e",
+        "android_client_info": {
+          "package_name": "com.alhikmah.muslimbiye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:b534d621ae3f0a5e",
+        "android_client_info": {
+          "package_name": "com.alhikmah.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-kl61dbt1dchktkknqo8kts64h9p42b8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alhikmah.quizapp",
+            "certificate_hash": "a8c5cd7ee706f8a9f0c26353de276a682df01db1"
+          }
+        },
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:8bd1b68fd04c055e",
+        "android_client_info": {
+          "package_name": "com.alhikmah.weather360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929491923378:android:3ec57725a6c4bcb5",
+        "android_client_info": {
+          "package_name": "shihab.com.rewardvideoad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929491923378-1s3oiugsu1ecvqui281uasimfiugn6n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shihab.com.rewardvideoad",
+            "certificate_hash": "e9490fbf3e8c064f6ef839872f22fb77282ce78c"
+          }
+        },
+        {
+          "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkr4PhcXXzOCoofBiOIUlRhB7RfShPdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929491923378-rihe8c6scaf71dt0h0g0nto1kg2c5l0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
