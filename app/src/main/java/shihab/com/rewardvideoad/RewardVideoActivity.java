@@ -19,7 +19,7 @@ import static shihab.com.rewardvideoad.ApplicationData.APP_ID;
 import static shihab.com.rewardvideoad.ApplicationData.REWARD_AD_UNIT_ID;
 
 
-public class RewardVideoActivity extends AppCompatActivity
+public class RewardVideoActivity extends BaseActivity
         implements RewardedVideoAdListener {
 
     private static final long COUNTER_TIME = 10;
@@ -40,8 +40,8 @@ public class RewardVideoActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.content_reward);
 
-        // Initialize the Mobile Ads SDK.
-        MobileAds.initialize(this, APP_ID);
+//        // Initialize the Mobile Ads SDK.
+//        MobileAds.initialize(this, APP_ID);
 
         rewardedVideoAd = MobileAds.getRewardedVideoAdInstance(this);
         rewardedVideoAd.setRewardedVideoAdListener(this);

@@ -7,11 +7,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 
-public class HomeActivity extends AppCompatActivity {
+public class HomeActivity extends BaseActivity {
 
     private AdView mAdView;
 
@@ -39,15 +38,11 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-
-        MobileAds.initialize(this,
-                ApplicationData.APP_ID);
-
         mAdView = findViewById(R.id.ad_view);
         AdRequest adRequest = new AdRequest.Builder().build();
 
-//        mAdView.setAdSize(AdSize.BANNER);
-//        mAdView.setAdUnitId(ApplicationData.TEST_BANNER);
+        //        mAdView.setAdSize(AdSize.BANNER);
+        //        mAdView.setAdUnitId(ApplicationData.TEST_BANNER);
 
         mAdView.loadAd(adRequest);
 
