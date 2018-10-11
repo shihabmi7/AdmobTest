@@ -38,6 +38,14 @@ public class HomeActivity extends BaseActivity {
             }
         });
 
+        findViewById(R.id.btn_interstial).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, InterstitialActivity.class));
+
+            }
+        });
+
         mAdView = findViewById(R.id.ad_view);
         AdRequest adRequest = new AdRequest.Builder().build();
 
